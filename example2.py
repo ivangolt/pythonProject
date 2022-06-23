@@ -13,4 +13,3 @@ def downloadYouTube(videourl, path):
     yt.download(path)
 
 downloadYouTube('https://www.youtube.com/watch?v=zNyYDHCg06c', './videos/FindingNemo1')
-
